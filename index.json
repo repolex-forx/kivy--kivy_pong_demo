@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy_pong_demo",
+  "versions": [
+    {
+      "commit": "be21a8d0e25ce92db528bc18c21550f78cc5d139",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:23:48.398537+00:00"
+    }
+  ]
+}
